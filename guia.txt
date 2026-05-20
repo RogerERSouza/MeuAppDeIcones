@@ -1,0 +1,12 @@
+
+$ git init
+
+$ git branch -M main
+
+$ git remote add origin link_do_repositorio
+
+$ git add .
+
+$ git commit -m "Nome do commit"
+
+$ git push origin main
